@@ -6,7 +6,7 @@ We believe that the only way to achieve this is by:
 * Defining and iterating over the core value propositions for any required solution. 
 * Great software engineering to build the system.
 
-We've spent years working togheter, on game-changing projects and products. During this process, we've refinined the processes and learning to work togheter, an now we want to make this know-how available for the best clients. 
+We've spent years working together, on game-changing projects and products. During this process, we've refinined the processes and learning to work together, an now we want to make this know-how available for the best clients. 
 
 We think software is a key asset to any business, and *great* software should be one of your advantages over your competition. Building this in-house is something that would take a lot of time, could lead to a lot of bad hires that would eventually brake the your company's culture. Believe us, **we've seen this happen**.
 
