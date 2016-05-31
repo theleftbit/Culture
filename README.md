@@ -5,6 +5,7 @@ At Blurred Software our goal is create the best products for the best clients. W
 We believe that the only way to achieve this is by:
 * Defining and iterating over the core value propositions for any required solution. 
 * Great software engineering to build the system.
+* Preferring quality over quantity.
 
 We've spent years working together, on game-changing projects and products. During this process, we've refined the processes and learned to work together, an now we want to make this know-how available for the best clients. 
 
