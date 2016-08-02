@@ -24,4 +24,13 @@ Ideally, anyone in the company, from the CEO to the Marketing Chief, could modif
 
 The fact that in Software engineering this steps are referred to as create a branch, commit changes and issue a Pull Request [(source)](http://codeinthehole.com/writing/pull-requests-and-other-good-practices-for-teams-using-github/) are implementation details that should not matter to the process itself, and the fact that we've chosen to put the human readable version as the main one shows you that we know what the [Dependecy Inversion Principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle) is 😉. 
 
-This continous improvement over our communication and feedback processes are our main building stone.
+This continous improvement over our **communication** and **feedback processes** are our main building stone.
+
+##Communication
+
+This is the most important trait of any good system, because it allows every person in the system to know as much as possible of the environment, enabling better, smarter and fastest decisions.
+
+Great communication is exercised daily by every member of the team, be it in the Weekly Sync meetings with all the team members, over the Pull Requests, talking to clients or discussing in the whiteboard a technical solution.
+
+This is why every member of Blurred Software has excellent verbal and written communication skills, to benefit the system as a whole.
+
