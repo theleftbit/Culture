@@ -1,4 +1,4 @@
-# [WIP] Culture
+# Culture
 
 At Blurred Software our goal is create the best products for the best clients. We strive to build the best product so it can reach  market and solve real world needs as fast as possible.
 
