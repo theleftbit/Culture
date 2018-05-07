@@ -1,6 +1,6 @@
 # Culture
 
-At Blurred Software our goal is create the best products for the best clients. We strive to build the best product so it can reach  market and solve real world needs as fast as possible.
+At The Left Bit our goal is create the best products for the best clients. We strive to build the best product so it can reach  market and solve real world needs as fast as possible.
 
 We believe that the only way to achieve this is by:
 * Defining and iterating over the core value propositions for any required solution. 
@@ -11,7 +11,7 @@ We've spent years working together, on game-changing projects and products. Duri
 
 We think software is a key asset to any business, and *great* software should be one of your advantages over your competition. Building this in-house is something that would take a lot of time, could lead to a lot of bad hires that would eventually brake your company's culture. Believe us, **we've seen this happen**.
 
-The document you are reading says a lot about Blurred Software's culture: 
+The document you are reading says a lot about The Left Bit's culture: 
 * It's written in Markdown.
 * It's in a public GIT repository.
 * Everyone in the organization has write access.
@@ -32,5 +32,5 @@ This is the most important trait of any good system, because it allows every per
 
 Great communication is exercised daily by every member of the team, be it in the Weekly Sync meetings with all the team members, over the Pull Requests, talking to clients or discussing in the whiteboard a technical solution.
 
-This is why every member of Blurred Software has excellent verbal and written communication skills, to benefit the system as a whole.
+This is why every member of The Left Bit has excellent verbal and written communication skills, to benefit the system as a whole.
 
