@@ -1,6 +1,6 @@
 # Culture
 
-At The Left Bit our goal is create the best products for the best clients. We strive to build the best product so it can reach  market and solve real world needs as fast as possible.
+At The Left Bit our goal is create the best products for the best clients. We strive to build the best product so it can reach market and solve real world needs as fast as possible.
 
 We believe that the only way to achieve this is by:
 * Defining and iterating over the core value propositions for any required solution. 
@@ -26,7 +26,7 @@ The fact that in Software engineering this steps are referred to as create a bra
 
 This continous improvement over our **communication** and **feedback processes** are our main building stone.
 
-##Communication
+## Communication
 
 This is the most important trait of any good system, because it allows every person in the system to know as much as possible of the environment, enabling better, smarter and fastest decisions.
 
